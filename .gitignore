@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Training logs
+catboost_info/
+
+# Large explainability outputs
+explain_outputs/
+
+# OS files
+.DS_Store
+Thumbs.db

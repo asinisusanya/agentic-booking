@@ -1,0 +1,13 @@
+hotel_branch,region,star,base_rate,has_spa,has_pool,current_offer,contact_email
+Cinnamon Grand Colombo,Colombo,5,200,TRUE,TRUE,Spa Discount 20%,cinnamon.grand.colombo@cinnamonhotels.com
+Cinnamon Lakeside Colombo,Colombo,5,180,TRUE,TRUE,None,cinnamon.lakeside.colombo@cinnamonhotels.com
+Cinnamon Red Colombo,Colombo,4,110,FALSE,TRUE,None,cinnamon.red.colombo@cinnamonhotels.com
+Cinnamon Lodge Habarana,Cultural Triangle,4,140,FALSE,TRUE,Spa Discount 20%,cinnamon.lodge.habarana@cinnamonhotels.com
+Habarana Village by Cinnamon,Cultural Triangle,4,95,FALSE,TRUE,Complimentary Breakfast,habarana.village.by.cinnamon@cinnamonhotels.com
+Cinnamon Bentota Beach,South Coast,4,150,TRUE,TRUE,10% Early Bird,cinnamon.bentota.beach@cinnamonhotels.com
+Cinnamon Bey Beruwala,West Coast,4,130,TRUE,TRUE,10% Early Bird,cinnamon.bey.beruwala@cinnamonhotels.com
+Cinnamon Citadel Kandy,Kandy,4,125,TRUE,FALSE,10% Early Bird,cinnamon.citadel.kandy@cinnamonhotels.com
+Kandy Myst by Cinnamon,Kandy,4,135,TRUE,FALSE,Spa Discount 20%,kandy.myst.by.cinnamon@cinnamonhotels.com
+Hikka Tranz by Cinnamon,South Coast,4,120,FALSE,TRUE,None,hikka.tranz.by.cinnamon@cinnamonhotels.com
+Trinco Blu by Cinnamon,East Coast,4,140,FALSE,TRUE,Spa Discount 20%,trinco.blu.by.cinnamon@cinnamonhotels.com
+Cinnamon Wild Yala,South-East (Safari),4,160,FALSE,TRUE,Spa Discount 20%,cinnamon.wild.yala@cinnamonhotels.com
