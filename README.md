@@ -197,9 +197,9 @@ Prediction accuracy alone is insufficient for proactive intervention.
 Explainability is required to understand **why dissatisfaction is predicted**.
 
 ### SHAP Methodology
-```
-{Predicted Rating} = \text{Base Value} + \sum \text{Feature Contributions}
-```
+Predicted Rating = Base + Feature Contributions
+
+
 
 - **Base value:** Average predicted rating
 - **SHAP values:** Feature-level contributions
